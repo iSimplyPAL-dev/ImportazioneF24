@@ -19,11 +19,4 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 1
-		SccProjectUniqueName0 = ImportazioneF24.vbproj
-		SccProjectName0 = \u0022$/GrandCombin/ImportazioneF24\u0022,\u0020EUCAAAAA
-		SccLocalPath0 = .
-		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
-	EndGlobalSection
 EndGlobal
